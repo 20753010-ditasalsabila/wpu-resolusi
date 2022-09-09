@@ -1,3 +1,2 @@
 WPU RESOLUSI 
 - contoh membuat repositori dan file
-- contoh cara menjalankan github
